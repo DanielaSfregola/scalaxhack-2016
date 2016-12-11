@@ -85,6 +85,11 @@ Send us a PR to list it here! Here's an example:
   [cats](https://github.com/typelevel/cats/issues?q=is%3Aopen+is%3Aissue+label%3A%22low-hanging+fruit%22)
   is a library that provides abstractions for functional programming in Scala.
 
+### Daniela Sfregola, Twitter4s
+
+  [twitter4s](https://github.com/DanielaSfregola/twitter4s)
+  An asynchronous non-blocking Scala client for both the Twitter Rest and Streaming API.
+
 ### ADD YOUR PROJECTS HERE
 
 ## Proposals for talks/workshops/round-tables
